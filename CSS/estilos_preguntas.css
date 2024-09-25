@@ -1,0 +1,24 @@
+
+       .Pregunta1{
+        text-align: center;
+        margin-bottom: 10%;
+      }
+      .Pregunta2{
+        text-align: center;
+        margin-bottom: 18%;
+      }
+      .Pregunta3{
+        text-align: center;
+        margin-bottom: 11%;
+      }
+      .Pregunta4{
+        text-align: center;
+        margin-bottom: 12%;
+      }
+      .bajar{
+        margin-bottom: 30%;
+    }
+    .footerdiv{
+    margin-bottom: 0;
+    position: relative;  
+  }

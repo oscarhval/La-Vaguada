@@ -1,0 +1,68 @@
+
+       .Fondo_enviar{
+        background-color: #001F3F;
+      color: #fff;
+      padding: 200px 400px;
+      text-align: left;
+       }
+       .envios_Nacio{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+        margin: 20px;
+        left: -800px;
+       }
+       .Envio_Economicos{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+       right: -650px;
+       position: relative;
+       top: -230px;
+       }
+       .Envio_Frio{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+        left: 1250px;
+        position: relative;
+        top: -440px;
+       }
+       .envios_Rapidos_Inter{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+        margin: 20px ;
+        left: -800px;
+       }
+       .Envio_Eco{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+       right: -650px;
+       position: relative;
+       top: -230px
+       }
+       .Envio_Ligero{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+        left: 1250px;
+        position: relative;
+        top: -440px;
+       }
+       .fondo_Internacional{
+        margin-top: -300px;
+       }

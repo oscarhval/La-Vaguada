@@ -1,0 +1,48 @@
+
+       /*body*/
+    .bajar{
+        margin-bottom: 30%;
+    }
+    .Segimiento{
+    
+        padding: 12px 20px;
+        background-color: #000080;
+        border: none;
+        border-radius: 60px;
+        color: #fff;
+        cursor: pointer;
+        bottom: 150px;
+        position: relative;
+        float: left;
+        left: 500px;
+    }
+    .Fondo_segui{
+      background-color: #001F3F;
+      color: #fff;
+      padding: 200px 400px;
+      text-align: left;
+      
+    }
+    .img_Paquete{
+        bottom: 300px;
+        position: relative;
+        float: right;
+        right: 400px;
+    }
+    .Modificar_entrega_Padre{
+    text-align: center;
+        width: 50%; 
+    box-sizing: border-box;
+    overflow: hidden;
+    border: 2px solid black; 
+    border-radius: 15px;
+    margin: 20px auto; /
+    }
+    .Modificar_entrega_Hijo{
+        position: relative;
+    }
+    .Preguntas{
+        position: absolute;
+        left: 700px;
+        bottom: -350px;
+    }

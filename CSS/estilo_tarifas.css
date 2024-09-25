@@ -1,0 +1,68 @@
+.contenedor-padre {
+    width: 50%; 
+    box-sizing: border-box;
+    overflow: hidden;
+    border: 2px solid black; 
+    border-radius: 15px;
+    margin: 20px auto; 
+    margin-right: 60px;
+  }
+  
+  .contenedor-hijo {
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .texto {
+    width: 60%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .imagen {
+    width: 40%;
+    float: right;
+    box-sizing: border-box;
+  }
+  .img-tarifa {
+    width: 100%;
+    height: 100%;
+    height: auto;
+    display: block;
+    border-radius: 15px;
+  }
+  .h1tarifas{
+    font-size: 50px; 
+    padding: 20px; 
+    left: 20px; 
+    text-align: center;
+  }
+  .ul-body {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  .contimg2 {
+    text-align: center;
+    height: 100vh; 
+    line-height: 100vh; 
+}
+
+.img-tarifa2 {
+    max-width: 100%; 
+    max-height: 100%; 
+    vertical-align: middle;
+}
+.contarifa3 {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.imgtarifa3 {
+    width: 1500px;
+    height: 320px; 
+    margin-left: 180px;
+    
+
+    display: block; 
+}

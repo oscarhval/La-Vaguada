@@ -1,0 +1,29 @@
+
+       /*body*/
+       .envios_Nacio{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+        margin-bottom: 12%;
+        position: relative;
+        left: 600px;
+       }
+       .h1_RapidoNaci{
+        text-align: center;
+        margin-left: 350px;
+       }
+       .envios_{
+        text-align: center;
+        width: 30%; 
+        box-sizing: border-box;
+        border: 2px solid black; 
+        border-radius: 15px;
+        margin-bottom: 12%;
+        position: relative;
+        left: 600px;
+       }
+       .h1_{
+        text-align: center;
+       }
